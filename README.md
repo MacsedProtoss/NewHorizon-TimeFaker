@@ -5,3 +5,4 @@
 
 1. （建议使用Chrome）登陆视听说网址[懒癌戳这里](202.114.27.5)，然后将其cookies里面的`NHCELoginCounter=?; NCCE=?; Hm_lvt_?=?; Hm_lpvt_?=?"`分别找到对应位置填写在python文件里面
 2. 运行python程序在你的**连接了校园网**的设备上
+3. 也可以使用docker来运行（已经写好了dockerfile）
